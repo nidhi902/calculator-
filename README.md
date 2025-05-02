@@ -35,10 +35,4 @@ This project is currently: [**On Hold**]
 [nidhi gautam]
 [Your GitHub Profile Link (e.g., https://github.com/your-username)]
 
-## License
-
-[Choose a license if you want - you can start with "MIT License" or "No License"]
-
----
-
 Feel free to contribute to this project! (You can add this line if you're open to collaboration later)
