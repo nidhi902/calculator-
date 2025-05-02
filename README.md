@@ -33,6 +33,6 @@ This project is currently: [**On Hold**]
 ## Author
 
 [nidhi gautam]
-[Your GitHub Profile Link [(e.g., https://github.com/your-username)](https://github.com/nidhi902)]
+[(e.g., https://github.com/your-username)](https://github.com/nidhi902)]
 
 Feel free to contribute to this project! (You can add this line if you're open to collaboration later)
